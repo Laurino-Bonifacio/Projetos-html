@@ -1,39 +1,43 @@
 <div align="center">
 
-# Projeto HTML 01 - [Nome do Projeto Aqui]
+# 🌐 Meus Projetos em HTML & CSS
 
-**Uma breve descrição do que este projeto específico faz. Ex: "Minha primeira página web, com títulos, parágrafos e links."**
+**Bem-vindo ao meu portfólio de projetos front-end! Este repositório centraliza minhas atividades e desafios desenvolvidos com HTML e CSS.**
 
 </div>
 
-<p align="center">
-  <a href="https://SEU-USUARIO.github.io/Projeto-html-1/" target="_blank">
-    <img src="https://img.shields.io/badge/Ver%20Projeto-Online-brightgreen?style=for-the-badge" alt="Ver Projeto Online">
-  </a>
-</p>
+<div align="center">
 
-<br>
+![HTML5](https://img.shields.io/badge/Tecnologia-HTML5-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/Tecnologia-CSS3-blue?style=for-the-badge&logo=css3)
+![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=for-the-badge)
+
+</div>
+
+---
+
+## 📂 Navegue pelos Projetos
+
+Abaixo você encontra a lista de todos os projetos. Cada um deles está em seu próprio repositório. Clique em "Ver Projeto" para explorar o código e a demonstração de cada um.
+
+| Nº do Projeto | Status | Link do Repositório |
+|:-------------:|:------:|:--------------------|
+| **Projeto-html-1** | 🟢 Concluído | [Ver Projeto](https://github.com/Laurino-Bonifacio/Projeto-html-1) |
+| **Projeto-html-2** | 🟢 Concluído | [Ver Projeto](https://github.com/Laurino-Bonifacio/Projeto-html-2) |
+| **Projeto-html-3** | 🟢 Concluído | [Ver Projeto](https://github.com/Laurino-Bonifacio/Projeto-html-3) |
+| **Projeto-html-4** | 🟢 Concluído | [Ver Projeto](https://github.com/Laurino-Bonifacio/Projeto-html-4) |
+| **Projeto-html-5** | 🟢 Concluído | [Ver Projeto](https://github.com/Laurino-Bonifacio/Projeto-html-5) |
+| **Projeto-html-6** | 🟢 Concluído | [Ver Projeto](https://github.com/Laurino-Bonifacio/Projeto-html-6) |
+| **Projeto-html-7** | 🟢 Concluído | [Ver Projeto](https://github.com/Laurino-Bonifacio/Projeto-html-7) |
+
+---
+
+## 🎯 Objetivo
+
+O objetivo desta série de projetos é aplicar e aprimorar minhas habilidades em desenvolvimento web, construindo páginas e pequenas aplicações utilizando as tecnologias fundamentais do front-end.
+
+---
 
 <div align="center">
-  </div>
-
----
-
-## 📝 Sobre o Projeto
-
-Este é o primeiro de uma série de 7 projetos focados no aprendizado e prática de HTML e CSS. O objetivo aqui foi construir a estrutura básica de uma página web.
-
----
-
-## ✨ Tecnologias Utilizadas
-
-As seguintes ferramentas e tecnologias foram usadas na construção deste projeto:
-
--   **HTML5:** Para a estrutura e o conteúdo da página (`index.html`).
--   **CSS3 (Opcional):** Para a estilização e o design.
-
----
-
-## ⬅️ Voltar
-
-[Clique aqui para voltar ao portfólio principal de projetos.](https://github.com/SEU-USUARIO/Projetos-html)
+  <p>Criado com 💙 para organizar minha jornada de aprendizado.</p>
+</div>
