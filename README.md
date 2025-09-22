@@ -22,13 +22,13 @@ Abaixo você encontra a lista de todos os projetos. Cada um deles está em seu p
 
 | Nº do Projeto | Status | Links |
 |:-------------:|:------:|:------|
-| **Projeto-html-1** | 🟢 Concluído | [Ver Código](https://github.com/Laurino-Bonifacio/Projeto-html-1) • [Demo Online](https://laurino-bonifacio.github.io/Projeto-html-1/) |
-| **Projeto-html-2** | 🟢 Concluído | [Ver Código](https://github.com/Laurino-Bonifacio/Projeto-html-2) • [Demo Online](https://laurino-bonifacio.github.io/Projeto-html-2/) |
-| **Projeto-html-3** | 🟡 Em Andamento | [Ver Código](https://github.com/Laurino-Bonifacio/Projeto-html-3) • [Demo Online](https://laurino-bonifacio.github.io/Projeto-html-3/) |
-| **Projeto-html-4** | 🟡 Em Andamento | [Ver Código](https://github.com/Laurino-Bonifacio/Projeto-html-4) • [Demo Online](https://laurino-bonifacio.github.io/Projeto-html-4/) |
-| **Projeto-html-5** | ⚪ Não Iniciado | [Ver Código](https://github.com/Laurino-Bonifacio/Projeto-html-5) • [Demo Online](https://laurino-bonifacio.github.io/Projeto-html-5/) |
-| **Projeto-html-6** | ⚪ Não Iniciado | [Ver Código](https://github.com/Laurino-Bonifacio/Projeto-html-6) • [Demo Online](https://laurino-bonifacio.github.io/Projeto-html-6/) |
-| **Projeto-html-7** | ⚪ Não Iniciado | [Ver Código](https://github.com/Laurino-Bonifacio/Projeto-html-7) • [Demo Online](https://laurino-bonifacio.github.io/Projeto-html-7/) |
+| **Projeto-html-1** | 🟢 Concluído |  [Demo Online](https://laurino-bonifacio.github.io/Projeto-html-1/) |
+| **Projeto-html-2** | 🟢 Concluído |  [Demo Online](https://laurino-bonifacio.github.io/Projeto-html-2/) |
+| **Projeto-html-3** | 🟢 Concluído |  [Demo Online](https://laurino-bonifacio.github.io/Projeto-html-3/) |
+| **Projeto-html-4** | 🟢 Concluído |  [Demo Online](https://laurino-bonifacio.github.io/Projeto-html-4/) |
+| **Projeto-html-5** | 🟢 Concluído |  [Demo Online](https://laurino-bonifacio.github.io/Projeto-html-5/) |
+| **Projeto-html-6** | 🟢 Concluído |  [Demo Online](https://laurino-bonifacio.github.io/Projeto-html-6/) |
+| **Projeto-html-7** | 🟢 Concluído |  [Demo Online](https://laurino-bonifacio.github.io/Projeto-html-7/) |
 
 ---
 
