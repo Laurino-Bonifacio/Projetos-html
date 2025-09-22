@@ -24,11 +24,11 @@ Abaixo você encontra a lista de todos os projetos. Cada um deles está em seu p
 |:-------------:|:------:|:--------------------|
 | **Projeto-html-1** | 🟢 Concluído | [Ver Projeto](https://github.com/SEU-USUARIO/Projeto-html-1) |
 | **Projeto-html-2** | 🟢 Concluído | [Ver Projeto](https://github.com/SEU-USUARIO/Projeto-html-2) |
-| **Projeto-html-3** | 🟡 Em Andamento | [Ver Projeto](https://github.com/SEU-USUARIO/Projeto-html-3) |
-| **Projeto-html-4** | 🟡 Em Andamento | [Ver Projeto](https://github.com/SEU-USUARIO/Projeto-html-4) |
-| **Projeto-html-5** | ⚪ Não Iniciado | [Ver Projeto](https://github.com/SEU-USUARIO/Projeto-html-5) |
-| **Projeto-html-6** | ⚪ Não Iniciado | [Ver Projeto](https://github.com/SEU-USUARIO/Projeto-html-6) |
-| **Projeto-html-7** | ⚪ Não Iniciado | [Ver Projeto](https://github.com/SEU-USUARIO/Projeto-html-7) |
+| **Projeto-html-3** | 🟢 Concluído  | [Ver Projeto](https://github.com/SEU-USUARIO/Projeto-html-3) |
+| **Projeto-html-4** | 🟢 Concluído  | [Ver Projeto](https://github.com/SEU-USUARIO/Projeto-html-4) |
+| **Projeto-html-5** | 🟢 Concluído  | [Ver Projeto](https://github.com/SEU-USUARIO/Projeto-html-5) |
+| **Projeto-html-6** | 🟢 Concluído  | [Ver Projeto](https://github.com/SEU-USUARIO/Projeto-html-6) |
+| **Projeto-html-7** | 🟢 Concluído  | [Ver Projeto](https://github.com/SEU-USUARIO/Projeto-html-7) |
 
 ---
 
